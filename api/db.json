@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is my Second stream",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "This is my third stream",
+      "userId": "101941102756274170215",
+      "id": 3
+    },
+    {
+      "title": "Fourth Stream",
+      "description": "This is my fourth stream",
+      "userId": "101941102756274170215",
+      "id": 4
+    },
+    {
+      "title": "Fifth Stream",
+      "description": "This is my fifth stream",
+      "userId": "101941102756274170215",
+      "id": 5
+    }
+  ]
+}
