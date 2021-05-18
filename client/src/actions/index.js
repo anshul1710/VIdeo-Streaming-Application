@@ -60,4 +60,5 @@ export const signOut=()=>{
           type:DELETE_STREAM,
           payload: id
         });
+        history.push('/');
       }
